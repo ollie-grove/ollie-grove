@@ -1,6 +1,5 @@
 - 💥 Hi, I’m @ollie-grove
-- 🚲 I’m interested in Earth sciences, baking, and art
-- 💻 I’m currently learning how to break into the tech industry
-- 💞️ I’m looking to develop a portfolio of work!
+- 🚲 I like art and design!
+- 💻 I’m currently developing my portfolio of work!
 - 📫 How to reach me:
   -  📧ollie.grove@protonmail.com
