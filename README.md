@@ -2,4 +2,4 @@
 - 🚲 I like art and design!
 - 💻 I’m currently developing my portfolio of work!
 - 📫 How to reach me:
-  -  📧ollie.grove@protonmail.com
+  -  📧ollie_grove@protonmail.com
